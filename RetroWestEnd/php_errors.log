@@ -1,0 +1,15 @@
+[04-May-2011 23:50:56] PHP Notice:  Use of undefined constant Email - assumed 'Email' in C:\Nginx\html\Gueslist.php on line 37
+[04-May-2011 23:50:56] PHP Warning:  mysql_connect(): Access denied for user 'retro'@'localhost' (using password: YES) in C:\Nginx\html\Gueslist.php on line 45
+[04-May-2011 23:50:56] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in C:\Nginx\html\Gueslist.php on line 46
+[04-May-2011 23:50:56] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in C:\Nginx\html\Gueslist.php on line 58
+[04-May-2011 23:50:56] PHP Notice:  Use of undefined constant Plus - assumed 'Plus' in C:\Nginx\html\Gueslist.php on line 61
+[04-May-2011 23:55:51] PHP Notice:  Use of undefined constant Email - assumed 'Email' in C:\Nginx\html\Gueslist.php on line 37
+[04-May-2011 23:55:52] PHP Notice:  Use of undefined constant Plus - assumed 'Plus' in C:\Nginx\html\Gueslist.php on line 61
+[05-May-2011 13:03:28] PHP Notice:  Use of undefined constant Email - assumed 'Email' in C:\Nginx\html\Gueslist.php on line 37
+[05-May-2011 13:03:32] PHP Notice:  Use of undefined constant Plus - assumed 'Plus' in C:\Nginx\html\Gueslist.php on line 61
+[05-May-2011 13:03:39] PHP Notice:  Use of undefined constant Email - assumed 'Email' in C:\Nginx\html\Gueslist.php on line 37
+[05-May-2011 13:03:50] PHP Notice:  Use of undefined constant Plus - assumed 'Plus' in C:\Nginx\html\Gueslist.php on line 61
+[05-May-2011 13:03:59] PHP Notice:  Use of undefined constant Email - assumed 'Email' in C:\Nginx\html\Gueslist.php on line 37
+[05-May-2011 13:04:03] PHP Notice:  Use of undefined constant Plus - assumed 'Plus' in C:\Nginx\html\Gueslist.php on line 61
+[05-May-2011 13:10:34] PHP Notice:  Use of undefined constant Email - assumed 'Email' in C:\Nginx\html\Gueslist.php on line 37
+[05-May-2011 13:10:36] PHP Notice:  Use of undefined constant Plus - assumed 'Plus' in C:\Nginx\html\Gueslist.php on line 61
