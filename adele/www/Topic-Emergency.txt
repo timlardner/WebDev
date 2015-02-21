@@ -1,0 +1,7 @@
+police;http://www.youtube.com/watch?v=fpobmsOQakE
+fire;http://www.youtube.com/watch?v=go914xgHrQ
+ambulance;http://www.youtube.com/watch?v=gzhmye_0dis
+coastguarrd;http://www.youtube.com/watch?v=bzaD5FUj_u8
+mountainrescue;http://www.youtube.com/watch?v=RCk0veRPVTs	
+lifeguard;http://www.youtube.com/watch?v=z7PG1B51se4
+999call;http://www.youtube.com/watch?v=qWib6WfW18M
