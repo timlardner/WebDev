@@ -1,0 +1,16 @@
+server {
+    server_name  small-flat-move.co.uk;
+    return       301 http://www.small-flat-move.co.uk$request_uri;
+}
+
+server {
+
+	root /var/www/SFM;
+	index index.php index.html index.htm;
+
+	server_name www.small-flat-move.co.uk;
+
+	include global/restrictions.conf;
+	include global/wordpress.conf;
+
+}

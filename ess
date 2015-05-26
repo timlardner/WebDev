@@ -1,0 +1,12 @@
+server {
+
+	root /var/www/ESS;
+	index index.php index.html index.htm;
+
+	server_name edinburghsecularsociety.com;
+
+	include global/restrictions.conf;
+	include global/wordpress.conf;
+
+}
+
